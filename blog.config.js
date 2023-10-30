@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'Notionic',
-  author: '左蓝',
+  title: '马库斯的咖啡馆',
+  author: 'Marker',
   email: 'i@zuolan.me',
-  link: 'https://zuolan.me',
+  link: 'https://markersblog.top',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -29,12 +29,12 @@ const BLOG = {
   ogImageGenerateHost: 'og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   defaultCover: '/cover.jpg',
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
-    telegram: 'https://t.me/zuolan'
+    twitter: 'https://twitter.com/izuolan', // 推特链接
+    github: 'https://github.com/izuolan', // github链接
+    telegram: 'https://t.me/zuolan' // 电报链接
   },
   seo: {
-    keywords: ['Notionic', 'Zuolan', 'Blog'],
+    keywords: ['Notionic', 'marker', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
