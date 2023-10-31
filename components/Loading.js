@@ -21,7 +21,7 @@ export default function Loading({ notionSlug }) {
       <div className='max-w-screen-2xl px-4 md:px-8 mx-auto'>
         <div className='flex flex-col items-center'>
           <div className='inline-flex items-center gap-2.5 mb-8'>
-						<Image
+            <Image
               src='/favicon.png'
               alt='Logo'
               width={50}
