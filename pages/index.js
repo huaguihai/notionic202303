@@ -5,6 +5,18 @@ import Pagination from '@/components/Pagination'
 import { getAllPosts, getPostBlocks } from '@/lib/notion'
 import BLOG from '@/blog.config'
 
+// 添加Dify聊天机器人脚本配置
+<script>
+ window.difyChatbotConfig = { 
+  token: 'Qj0ojd8IGXOILak8'
+ }
+</script>
+<script
+ src="https://udify.app/embed.min.js"
+ id="Qj0ojd8IGXOILak8"
+ defer>
+</script>
+
 export async function getStaticProps() {
   const posts = await getAllPosts({ onlyPost: true })
 
