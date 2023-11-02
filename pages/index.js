@@ -7,9 +7,7 @@ import BLOG from '@/blog.config'
 
 // 添加Dify聊天机器人脚本配置
 <script>
- window.difyChatbotConfig = { 
-  token: 'Qj0ojd8IGXOILak8'
- }
+ window.difyChatbotConfig = { token: 'Qj0ojd8IGXOILak8' }
 </script>
 <script
  src="https://udify.app/embed.min.js"
