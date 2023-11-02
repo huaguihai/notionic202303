@@ -1,10 +1,10 @@
 const BLOG = {
-  title: '马库斯的咖啡馆',
+  title: '画图仔马库斯',
   author: 'Marker',
   email: 'i@zuolan.me',
   link: 'https://markersblog.top',
   newsletter: 'Notionic Weekly',
-  description: '一杯美式足矣',
+  description: '喝完这杯咖灰就去搬砖',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
