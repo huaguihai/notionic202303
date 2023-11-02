@@ -1,16 +1,16 @@
 {
   "name": "notionic",
   "version": "3.0.0",
-  "homepage": "https://zuolan.me",
+  "homepage": "https://markersblog.top",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/izuolan/notionic.git"
   },
   "author": {
-    "name": "Zuo Lan",
+    "name": "马库斯",
     "email": "i@zuolan.me",
-    "url": "https://zuolan.me"
+    "url": "https://markersblog.top"
   },
   "scripts": {
     "dev": "next dev",
