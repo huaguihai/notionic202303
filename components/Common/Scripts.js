@@ -40,16 +40,6 @@ const Scripts = () => (
         </Script>
       </>
     )}
-        <script>
-           window.difyChatbotConfig = { 
-            token: 'Qj0ojd8IGXOILak8'
-         }
-        </script>
-        <script
-           src="https://udify.app/embed.min.js"
-           id="Qj0ojd8IGXOILak8"
-           defer>
-        </script>
   </>
 )
 
