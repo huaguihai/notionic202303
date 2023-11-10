@@ -45,15 +45,3 @@ const Scripts = () => (
   
 export default Scripts
 
-<Script>
-  {`window.difyChatbotConfig = { 
-    token: 'Qj0ojd8IGXOILak8'
-  };`}
-</Script>
-<Script
-  src="https://udify.app/embed.min.js"
-  id="Qj0ojd8IGXOILak8"
-  defer
-/>
-
-export default Scripts
